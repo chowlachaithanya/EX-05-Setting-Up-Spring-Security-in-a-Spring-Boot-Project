@@ -74,3 +74,12 @@ public class HelloController {
         return "This is a secured endpoint. You are authenticated!";
     }
 }
+
+## OUT PUT:
+<img width="955" height="632" alt="{725E2222-98D0-4621-94C1-432264381373}" src="https://github.com/user-attachments/assets/625235bc-e004-46b1-a6bf-d3a1df96eacb" />
+<img width="954" height="632" alt="{FBB8D97E-0417-4D45-B1D6-49E833F7D836}" src="https://github.com/user-attachments/assets/8a13c297-5dfa-4932-8987-5016c270d5e8" />
+
+## RESULT: 
+Thus the program executed sucessfully.
+
+
